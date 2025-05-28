@@ -1,5 +1,5 @@
 
-
+/// question number 2620
  function createCounter(n) {
   let count = n;
 
