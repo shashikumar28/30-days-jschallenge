@@ -1,7 +1,6 @@
 var a = 10 
 console.log(a)
 console.log(b)//error is liye aa rha b ko assign ni kiya ha 
-
 function outer (){
     inner();
     function inner (){
