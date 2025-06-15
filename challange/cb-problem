@@ -4,7 +4,7 @@ console.log(b)//error is liye aa rha b ko assign ni kiya ha
 function outer (){
     inner();
     function inner (){
-        var c = 30;
+        var c =  30;
         console.log(c)
     }
 }
