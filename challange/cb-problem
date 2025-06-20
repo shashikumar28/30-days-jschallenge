@@ -5,7 +5,7 @@ function outer (){
     inner();
     function inner (){
         var c =   30;
-        console.log(c)
+        console.log (c);
     }
 }
 outer ()
